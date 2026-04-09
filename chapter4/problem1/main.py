@@ -6,7 +6,7 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 
 
-BASE_DIR = r'./data'
+BASE_DIR = r'../../data/spaceship-titanic'
 
 TRAIN_FILE_NAME = 'train.csv'
 TEST_FILE_NAME = 'test.csv'
